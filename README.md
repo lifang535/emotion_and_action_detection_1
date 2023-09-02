@@ -69,7 +69,7 @@ throughout of PostureRecognition(4) ≈ 0.77 req/s (cuda:0  MEM: 7527 MiB; UTL: 
 
 `'input_videos/video_1.mp4'` -> `'output_videos/processed_video_1.mp4'` (-> .gif)
 
-![Video](https://github.com/lifang535/emotion_and_action_detection_1/blob/main/output_videos/processed_video_1.gif)
+![Video](output_videos/processed_video_1.gif)
 
 ## TODO
 
