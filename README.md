@@ -1,4 +1,4 @@
-![image](https://github.com/lifang535/emotion_and_action_detection_1/assets/121086156/bed8ab81-9d5e-4683-a475-15179cccded5)# emotion_and_action_detection_1
+# emotion_and_action_detection_1
 This is a test of multi-model_app.
 
 ## code logics
@@ -29,16 +29,16 @@ model: pytorch-openpose/body_pose_model.pth from https://github.com/Hzzone/pytor
 
 ```
          path                         num_frame                         num_person                         num_face                         source
-'input_videos/video_1.mp4'              217                               217                                459                         https://www.pexels.com/video/man-dancing-on-rooftop-2795750/
-'input_videos/video_2.mp4'              324                               290                                166                         https://www.pexels.com/video/city-road-dawn-man-4734775/
-'input_videos/video_3.mp4'              250                               287                               1                           https://www.pexels.com/video/man-dancing-in-front-of-a-building-with-mural-2795730/
-'input_videos/video_4.mp4'              268                               270                                 4                           https://www.pexels.com/video/man-dancing-hip-hop-2795745/
-'input_videos/video_5.mp4'              655                               544                               0                           https://www.pexels.com/video/person-dancing-4540399/
-'input_videos/video_6.mp4'              147                               153                               1047                        https://www.pexels.com/video/young-man-practicing-break-dance-5363330/
-'input_videos/video_7.mp4'              427                               363                                88                          https://www.pexels.com/video/man-outdoors-modern-break-dance-4734793/
-'input_videos/video_8.mp4'              127                               127                                  0                           https://www.pexels.com/video/city-man-dancing-sport-4734627/
-'input_videos/video_9.mp4'              128                               134                                  95                          https://www.pexels.com/video/emotions-dancing-amusement-park-portrait-4841885/
-'input_videos/video_10.mp4'             369                               1605                                  0                           https://www.pexels.com/video/a-man-doing-breakdancing-8688465/
+'input_videos/video_1.mp4'              217                               217                                121                         https://www.pexels.com/video/man-dancing-on-rooftop-2795750/
+'input_videos/video_2.mp4'              324                               290                                43                          https://www.pexels.com/video/city-road-dawn-man-4734775/
+'input_videos/video_3.mp4'              250                               287                                170                         https://www.pexels.com/video/man-dancing-in-front-of-a-building-with-mural-2795730/
+'input_videos/video_4.mp4'              268                               270                                224                         https://www.pexels.com/video/man-dancing-hip-hop-2795745/
+'input_videos/video_5.mp4'              655                               544                                522                         https://www.pexels.com/video/person-dancing-4540399/
+'input_videos/video_6.mp4'              147                               153                                44                          https://www.pexels.com/video/young-man-practicing-break-dance-5363330/
+'input_videos/video_7.mp4'              427                               363                                139                         https://www.pexels.com/video/man-outdoors-modern-break-dance-4734793/
+'input_videos/video_8.mp4'              127                               127                                65                          https://www.pexels.com/video/city-man-dancing-sport-4734627/
+'input_videos/video_9.mp4'              128                               134                                70                          https://www.pexels.com/video/emotions-dancing-amusement-park-portrait-4841885/
+'input_videos/video_10.mp4'             369                               1605                               972                         https://www.pexels.com/video/a-man-doing-breakdancing-8688465/
 ```
 
 ### Throughout of model:
