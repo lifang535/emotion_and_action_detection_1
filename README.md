@@ -21,7 +21,7 @@ model: pytorch-openpose/body_pose_model.pth from https://github.com/Hzzone/pytor
 
 `InformationSummary`: input: frame, face_boxes, emotion, processed_frame; output: processed_video.
 
-![Image](https://github.com/lifang535/emotion_and_action_detection_1/blob/main/app.png)
+![Image](https://github.com/lifang535/emotion_and_action_detection_1/blob/main/app_plus.png)
 
 ### Request in data transmission: 
 
